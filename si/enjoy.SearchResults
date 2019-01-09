@@ -1,0 +1,4 @@
+---- EC20_DEBUG Matches (3 in 2 files) ----
+Application.c (src\applications):#ifdef	EC20_DEBUG
+Application.c (src\applications):#ifdef	EC20_DEBUG
+Rtconfig.h (project):#define	EC20_DEBUG
