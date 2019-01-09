@@ -1,0 +1,15 @@
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\bin\armproc.dll" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\bin\armjlink2.dll" 
+
+"E:\workStation\SVN\shhx\project\iar\Debug\Exe\ec20.out" 
+
+--plugin="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\bin\armbat.dll" 
+
+--device_macro="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\config\debugger\ST\STM32F2xx.dmac" 
+
+--flash_loader="E:\workStation\SVN\shhx\project\iar\ec20.board" 
+
+
+
+

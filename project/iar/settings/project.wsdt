@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>ei-shhx/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>358</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>543</ColumnWidth1><ColumnWidth2>145</ColumnWidth2><ColumnWidth3>36</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>21</ColumnWidth0><ColumnWidth1>1540</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-32403-1901</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>ei-shhx</ExpandedNode><ExpandedNode>ei-shhx/Applications</ExpandedNode><ExpandedNode>ei-shhx/DeviceDrivers</ExpandedNode><ExpandedNode>ei-shhx/DeviceDrivers/Pm</ExpandedNode><ExpandedNode>ei-shhx/cm_backtrace</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-17390-9961</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-2089-20873</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\Drivers\board.c</Filename><XPos>0</XPos><YPos>83</YPos><SelStart>2362</SelStart><SelEnd>2362</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\base_kernel\components\drivers\can\can.c</Filename><XPos>0</XPos><YPos>761</YPos><SelStart>20495</SelStart><SelEnd>20495</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\Drivers\bxcan.c</Filename><XPos>0</XPos><YPos>328</YPos><SelStart>9797</SelStart><SelEnd>9797</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\Drivers\ec20.c</Filename><XPos>0</XPos><YPos>127</YPos><SelStart>3096</SelStart><SelEnd>3096</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\applications\application.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>925</SelStart><SelEnd>925</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\applications\main.c</Filename><XPos>0</XPos><YPos>90</YPos><SelStart>2375</SelStart><SelEnd>2375</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\Drivers\usart.c</Filename><XPos>0</XPos><YPos>341</YPos><SelStart>10890</SelStart><SelEnd>10890</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\rtconfig.h</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>1484</SelStart><SelEnd>1484</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\Drivers\gpio.h</Filename><XPos>0</XPos><YPos>22</YPos><SelStart>727</SelStart><SelEnd>727</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\applications\canapp.c</Filename><XPos>0</XPos><YPos>97</YPos><SelStart>2832</SelStart><SelEnd>2832</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\applications\user_finsh_cmd.c</Filename><XPos>0</XPos><YPos>32</YPos><SelStart>1057</SelStart><SelEnd>1057</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\cm_backtrace\cm_backtrace.c</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>10537</SelStart><SelEnd>10537</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\cm_backtrace\cmb_cfg.h</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>1476</SelStart><SelEnd>1476</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\base_kernel\components\drivers\pm\pm.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>244</SelStart><SelEnd>244</SelEnd></Tab><ActiveTab>13</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\base_kernel\examples\pm\timer_app.c</Filename><XPos>0</XPos><YPos>28</YPos><SelStart>941</SelStart><SelEnd>941</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02740158><key>iaridepm.enu1</key></Toolbar-02740158></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>551</Bottom><Right>449</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>125000</sizeHorzCX><sizeHorzCY>244499</sizeHorzCY><sizeVertCX>281875</sizeVertCX><sizeVertCY>676039</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>222</Bottom><Right>1602</Right><x>-2</x><y>-2</y><xscreen>1604</xscreen><yscreen>224</yscreen><sizeHorzCX>1002500</sizeHorzCX><sizeHorzCY>273839</sizeHorzCY><sizeVertCX>125000</sizeVertCX><sizeVertCY>244499</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

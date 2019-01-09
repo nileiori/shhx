@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1541</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1155</ColumnWidth1><ColumnWidth2>308</ColumnWidth2><ColumnWidth3>77</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>183</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+      <ShowCodeCoverage>0</ShowCodeCoverage><ShowInstrProfiling>0</ShowInstrProfiling></Disassembly>
+      <Breakpoints>
+        <col-names>
+          
+          
+        <item>Breakpoint</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>35</item></col-widths>
+      </Breakpoints>
+      <CallStack>
+        <col-names>
+          <item>Frame</item>
+          <item>_I0</item>
+        </col-names>
+        <col-widths>
+          <item>400</item>
+          <item>20</item>
+        </col-widths>
+      </CallStack>
+      <StaticWatch>
+        <expressions>
+          
+        <item>_ec20_the_ctx</item><item>can_data</item><item/></expressions>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>181</item><item>150</item><item>100</item><item>100</item></col-widths>
+      </StaticWatch>
+      <Locals>
+        <col-names>
+          
+          
+          
+          
+        <item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>150</item><item>100</item><item>100</item><item>179</item></col-widths>
+      </Locals>
+      <WATCH_1>
+        <expressions>
+          
+        <item/></expressions>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>100</item><item>150</item><item>100</item><item>100</item></col-widths>
+      </WATCH_1>
+      <WATCH_2>
+        <expressions>
+          <item/>
+        </expressions>
+        <col-names>
+          <item>Expression</item>
+          <item>Location</item>
+          <item>Type</item>
+          <item>Value</item>
+        </col-names>
+        <col-widths>
+          <item>100</item>
+          <item>150</item>
+          <item>100</item>
+          <item>100</item>
+        </col-widths>
+      </WATCH_2>
+      <Register/>
+    </Static>
+    <Windows>
+      
+      
+      
+    <Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-2250-12086</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-1727-12096</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-30836-12165</Identity>
+            <TabName>Breakpoints</TabName>
+            <Factory>Breakpoints</Factory>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-12999-12090</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>ei-shhx</ExpandedNode><ExpandedNode>ei-shhx/Applications</ExpandedNode><ExpandedNode>ei-shhx/DeviceDrivers</ExpandedNode><ExpandedNode>ei-shhx/Drivers</ExpandedNode><ExpandedNode>ei-shhx/Drivers/Can</ExpandedNode><ExpandedNode>ei-shhx/Drivers/Serial</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-23747-12093</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-28222-12214</Identity>
+            <TabName>Call Stack</TabName>
+            <Factory>CallStack</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-13814-12279</Identity>
+            <TabName>Live Watch</TabName>
+            <Factory>StaticWatch</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-12769-12299</Identity>
+            <TabName>Locals</TabName>
+            <Factory>Locals</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-975-12315</Identity>
+            <TabName>Watch 1</TabName>
+            <Factory>WATCH_1</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-11200-12328</Identity>
+            <TabName>Watch 2</TabName>
+            <Factory>WATCH_2</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-22925-3867</Identity>
+            <TabName>Register</TabName>
+            <Factory>Register</Factory>
+            <Session>
+              
+              
+              
+              
+              
+            <REG1>0</REG1><REG2>0</REG2><Group>37</Group><States>2</States><State0>GPIOB_ODR</State0><State1>GPIOD_ODR</State1></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>3</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\Drivers\board.c</Filename><XPos>0</XPos><YPos>83</YPos><SelStart>2388</SelStart><SelEnd>2388</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\base_kernel\components\drivers\can\can.c</Filename><XPos>0</XPos><YPos>761</YPos><SelStart>20495</SelStart><SelEnd>20495</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\Drivers\bxcan.c</Filename><XPos>0</XPos><YPos>328</YPos><SelStart>9797</SelStart><SelEnd>9797</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\Drivers\ec20.c</Filename><XPos>0</XPos><YPos>216</YPos><SelStart>6443</SelStart><SelEnd>6443</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\applications\application.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>925</SelStart><SelEnd>925</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\applications\main.c</Filename><XPos>0</XPos><YPos>90</YPos><SelStart>2375</SelStart><SelEnd>2375</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\Drivers\usart.c</Filename><XPos>0</XPos><YPos>341</YPos><SelStart>10890</SelStart><SelEnd>10890</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\rtconfig.h</Filename><XPos>0</XPos><YPos>54</YPos><SelStart>1484</SelStart><SelEnd>1484</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\Drivers\gpio.h</Filename><XPos>0</XPos><YPos>22</YPos><SelStart>727</SelStart><SelEnd>727</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\applications\canapp.c</Filename><XPos>0</XPos><YPos>97</YPos><SelStart>2832</SelStart><SelEnd>2832</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\applications\user_finsh_cmd.c</Filename><XPos>0</XPos><YPos>32</YPos><SelStart>1057</SelStart><SelEnd>1057</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\cm_backtrace\cm_backtrace.c</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>10537</SelStart><SelEnd>10537</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\cm_backtrace\cmb_cfg.h</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>1476</SelStart><SelEnd>1476</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00290158><key>iaridepm.enu1</key></Toolbar-00290158></Sizes></Row0><Row1><Sizes><Toolbar-145ac380><key>debuggergui.enu1</key></Toolbar-145ac380></Sizes></Row1><Row2><Sizes><Toolbar-145ac1f0><key>armjlink.enu1</key></Toolbar-145ac1f0></Sizes></Row2></Top><Left><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>527</Bottom><Right>274</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>125000</sizeHorzCX><sizeHorzCY>244499</sizeHorzCY><sizeVertCX>172500</sizeVertCX><sizeVertCY>646699</sizeVertCY></Rect></Wnd4></Sizes></Row0></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>527</Bottom><Right>428</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>125000</sizeHorzCX><sizeHorzCY>244499</sizeHorzCY><sizeVertCX>268750</sizeVertCX><sizeVertCY>646699</sizeVertCY></Rect></Wnd5></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1602</Right><x>-2</x><y>-2</y><xscreen>1604</xscreen><yscreen>200</yscreen><sizeHorzCX>1002500</sizeHorzCX><sizeHorzCY>244499</sizeHorzCY><sizeVertCX>125000</sizeVertCX><sizeVertCY>244499</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
